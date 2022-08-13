@@ -64,6 +64,12 @@ This PowerShell script will back up folders on a Windows system using Robocopy. 
 
 - Windows PowerShell 5.1 should already be installed on your computer. That will work just fine, but the menu to add folders will work better with PowerShell 7, which has a download link provided above.
 
+- [PSMenu](https://github.com/Sebazzz/PSMenu). Open PowerShell and use the following command:
+
+```powershell
+Install-Module PSMenu
+```
+
 ### Installation
 
 Download the latest release from the [Releases] section. Extract the provided .zip file into any folder you like.
