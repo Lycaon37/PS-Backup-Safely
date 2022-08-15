@@ -121,5 +121,5 @@ See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgements
 
-- Photo Album by Icon 54 from the [Noun Project](https://thenounproject.com/browse/icons/term/photo-album/) - Icon for logo.
+- Backup Folder by DailyYouth from the [Noun Project](https://thenounproject.com/browse/icons/term/backup-folder/) - Icon for logo.
 - [Learn PowerShell in a Month of Lunches](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches), by Travis Plunk, James Petty, Tyler Leonhardt, Don Jones, and Jeffery Hicks - Main resource for learning PowerShell.
